@@ -1,7 +1,13 @@
-﻿Console.WriteLine("Hello, Master!, one more modification"); Console.WriteLine("Hello, Master!, one more modification");
-Console.WriteLine("Hello, Master!, one more modification"); Console.WriteLine("Hello, Master!, one more modification");
-Console.WriteLine("Hello, Master!, one more modification"); Console.WriteLine("Hello, Master!, one more modification");
-Console.WriteLine("Hello, Master!, one more modification"); Console.WriteLine("Hello, Master!, one more modification");
-Console.WriteLine("Hello, Master!, one more modification"); Console.WriteLine("Hello, Master!, one more modification");
-Console.WriteLine("Hello, Master!, one more modification"); Console.WriteLine("Hello, Master!, one more modification");
-Console.WriteLine("Hello, Master!, one more modification"); Console.WriteLine("Hello, Master!, one more modification");
+﻿void MyFirstMethod()
+{
+
+}
+
+void MySecondMethod()
+{
+
+}
+void MyThirdMethod()
+{
+
+}
